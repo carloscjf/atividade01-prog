@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>José Carlos da Costa Ferreira Filho e Vinícius Lucena Lima</Text>
+      <Text>José Carlos da Costa Ferreira Filho, Vinícius Lucena Lima e Igor de Araújo Azevedo</Text>
       <StatusBar style="auto" />
     </View>
   );
